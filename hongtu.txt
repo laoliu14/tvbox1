@@ -1,0 +1,16 @@
+{
+    "storeHouse": [
+        {
+            "sourceName": "饭太硬",
+            "sourceUrl": "http://www.饭太硬.com/tv"
+        },
+        {
+            "sourceName": "肥猫",
+            "sourceUrl": "http://我不是.肥猫.live/接口禁止贩卖"
+        },
+        {
+            "sourceName": "摸鱼儿",
+            "sourceUrl": "http://我不是.摸鱼儿.top"
+        }
+    ]
+}
